@@ -12,13 +12,29 @@
 
 <p dir="rtl">
   شاهد كيفية الاستخدام على
-  <a href="" target="_blank">
-    <img height="15px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  <a href="https://youtu.be/qFsUwp5iomU" target="_blank">
+    <img height="18px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
   أو
   جربها الآن على
-  <a href="https://colab.research.google.com/github/ieasybooks/tafrigh/blob/main/colab_notebook.ipynb" target="_blank">
-    <img height="15px" src="https://img.shields.io/badge/Google_Colab-%234285F4.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+  <a href="https://tafrigh" target="_blank">
+    <img height="18px" src="https://img.shields.io/badge/Google_Colab-%234285F4.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+  </a>
+</p>
+
+<h3 dir="rtl">كُنّاشة تحويل <sub>تحويل الكتب من PDF إلى TXT/DOCX</sub></h3>
+
+<p dir="rtl">باستخدام هذه الكُنّاشة ستتمكن من تحويل الكتب سواءً كانت مُصورةً أو غير مُصورة من صيغة PDF إلى صيغة TXT/DOCX بدقة عالية مجانًا باستخدام تقنيات التعرّف على الحروف المقدمة من Google.</p>
+
+<p dir="rtl">
+  شاهد كيفية الاستخدام على
+  <a href="https://youtu.be/MsLRFT50pNo" target="_blank">
+    <img height="18px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
+  أو
+  جربها الآن على
+  <a href="https://tahweel.ieasybooks.com" target="_blank">
+    <img height="18px" src="https://img.shields.io/badge/Google_Colab-%234285F4.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
   </a>
 </p>
 
