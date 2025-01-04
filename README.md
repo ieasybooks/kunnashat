@@ -17,7 +17,7 @@
   </a>
   أو
   جربها الآن على
-  <a href="https://tafrigh" target="_blank">
+  <a href="https://tafrigh.ieasybooks.com" target="_blank">
     <img height="18px" src="https://img.shields.io/badge/Google_Colab-%234285F4.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
   </a>
 </p>
